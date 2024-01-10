@@ -1,1 +1,1 @@
-# Présentation du projet fil rouge réalisée lors du Bootcamp DevOps 
+# Pipeline CI/CD avec Gitlab-CI, terraform
